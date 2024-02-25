@@ -1,0 +1,2 @@
+# autolootvsip
+autolot auto guide
